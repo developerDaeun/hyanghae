@@ -26,7 +26,7 @@
   - [산출물](#산출물)
   - [결과물](#결과물)
 
-- [📺 프로젝트 UCC](https://drive.google.com/drive/folders/19nDtGa64AudWwS5Fxjrk2entle-rCwhH)
+- [📺 프로젝트 UCC](https://drive.google.com/file/d/1AMcAO6QFbD6dapB6_n6oYhm9_pHbsGKm/view?usp=sharing)
   <br><br>
 
 ## 서비스 소개
