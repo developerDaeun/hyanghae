@@ -163,13 +163,13 @@ components
 - [데이터베이스:ERD](./docs/ERD.md)
 - [시퀀스 다이어그램](./docs/시퀀스다이어그램.md)
 - [Git 협업](./docs/Git-관리.md)
-- [Jira 이슈관리](./docs/Jira 이슈 관리.md)
-- [AWS EC2 환경 설정](./docs/AWS EC2.md)
+- [Jira 이슈관리](./docs/Jira-이슈관리.md)
+- [AWS EC2 환경 설정](./docs/AWS-EC2.md)
 
 <br><br>
 
 ## 결과물
-- [포팅메뉴얼](./exec/포팅 메뉴얼.md)
+- [포팅메뉴얼](./exec/포팅메뉴얼.md)
 - [시연시나리오](./exec/시연시나리오.md)
 - [중간발표자료](./pt/[중간발표]특화_PJT_구미1반_D104.pdf)
 - [최종발표자료](./pt/[최종발표]특화_PJT_구미1반_D104.pdf)
